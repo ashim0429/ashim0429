@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashim Baral
 - 👀 I’m interested in Web-app Development.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at reachashim@gmail.com
 
